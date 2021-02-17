@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="AyindeWilliamsC482.jnlp">
+  <information>
+    <title>AyindeWilliamsC482</title>
+    <vendor>ayinde</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="AyindeWilliamsC482.jar" size="35245" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="AyindeWilliamsC482" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="ayindewilliamsc482.AyindeWilliamsC482"  name="AyindeWilliamsC482" />
+  <update check="always"/>
+</jnlp>
